@@ -106,7 +106,3 @@ LogiOptics-Logistics-Project/
 
 ---
 
-**Ready for GitHub!**  
-Just upload all the files you shared and replace the image names if needed.
-
----
